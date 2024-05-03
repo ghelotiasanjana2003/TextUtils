@@ -1,0 +1,28 @@
+.todo{
+    
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    border-top-left-radius: 10px;
+    outline: none;
+    width: 300x;
+    padding: 5px;
+    color: brown;
+}
+
+.button{
+    border-top-right-radius: 10px;
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
